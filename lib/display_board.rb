@@ -3,3 +3,4 @@ def display_board()
   puts "Tic Tic Toe board"
 end
 :display_board
+display_board
